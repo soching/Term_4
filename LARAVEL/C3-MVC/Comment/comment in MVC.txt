@@ -1,0 +1,51 @@
+-comment for generate table in database: php artisan migrate
+-commet for create file in folder: php artisan make:name_folder name_file -m
+-commet for create element in database: php artisan tinker
+
++Basuc artisan command
+- comment for check version php: php artisan --version.
+- comment for run laravel:
+	.php artisan serve (default port 8000).
+	.php artisan serve --port=45.
+	.php artisan serve --port82.
++Create controller
+- php artisan make:controller YourController
+- php artisan make:controller YouController --resource
+- php artisan make:controller YouController -r
+- php artisan make:controller YouController --api
+- php artisan make:controller YouController -m --api(create all method in file controller)
++Create Model
+- php artisan make:model YouModel
++Create model with migration
+- php artisan make:model YourModel --migration
+- php artisan make:model YourModel -m
++command to create model, basic controller and migration table
+- php artisan make:model YourModel --all
+- php artisan make: YourModel -a
++ command to create Model, Resource controller and migration table
+- php artisan make:model YourModel --migration --controller --resource
+- php artisan make:model YourModel -mcr
+- php artisan make:model YourModel -m -c -r
++command to create model, API controller and migration table
+- php artisan make:model YourModel --migration --controller --api
+- php artisan make:model YourModel -m -c --api
+- php artisan make:model YourModel -mc --api
++Check route list
+- php artisan route:list
+- php artisan route:list --path=items
+- php artisan route:list --method=GET
+- php artisan route:list --path met
++delet table in database
+-php artisan migrate:refresh
+-php artisan migrate:reset(delete all table in database)
+-php artisan migrate:rollback
+-php artisan migrate:status
++seeder(use for ganeration or prepare data set to database)
+-php artisan make:seeder YourTableSeeder
++steo for run seeder
+-php artisan migrate:reset
+-php artisan migrate --seed
+-php artisan migrate:refresh
+-php artisan database:seed
++Factory
+-php artisan make:

@@ -1,0 +1,32 @@
+Select Query Basic
+-DB::selectOne('select * from table_name')
+-DB::select('select from table_name')
+
+Select Query basic With where Condition
+-DB::select('select * from table_name where id=1');
+-DB::select('select * from table_name' where id = ?', [1]);
+-DB::select('select * from table_name where id =:id',[id]
+
+Crud Basic
+-DB::select('select * from table_name');
+-DB::insert('insert into table_name(col1,col2,..) values(?,?..)',[value1,value2,...])
+-DB::update(update table_name set col1=?,col2=?.. where id=?', [value1,value2..]);
+-DB::delete(delete from table_name where id=?, [value]);
+
+Eloquent Models
+find()
+save()
+destroy()
+
+Eloquent Models Methods
+all()
+get()
+lastest()
+orderBy()
+where()
+find()
+firstOrFail()
+findOrFail()
+firstOrcreate()
+save()
+destroy()

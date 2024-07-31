@@ -1,0 +1,3 @@
++ loop in vue js
+- loop object no id or for index: v-for="(varible_name, index) in object_name" :key="index"
+- loop object has id: v-for="varible_name in name_object" :key="varible_name.id"

@@ -1,0 +1,184 @@
+- minimal : បន្តិចបន្តួច
+- occasionally :​ម្តងម្កាល
+- brief : សង្ខេប
+- definitely : ប្រាកដ
+- rather : ជាជាង
+- engagement : ការចូលរួម
+- dependable : អាចទុក្ខចិត្តបាន
+- landscape : ទេសភាព
+- revenue :​ប្រាក់ចំណូល
+-​​ dedication (n) :ការលះបង់
+- persistence (n) :ការតស៊ូ
+- persistent (adj):​ជាប់លាប់
+- advertising :ការផ្សាយពាណិជ្ជកម្ម
+- depend (adj) : អាស្រ័យ
+- descreases (v) : ថយចុះ
+- reference : ឯកសារយោង
+- predictions : ការព្យាករណ៍
+- course :​វគ្គសិក្សា
+- warm :កម្តៅ
+- glossy :រលោង
+- naturally :តាមធម្មជាតិ
+- appear :លិចឡើង
+- investigate :ស៊ើបអង្កេត
+- investigation :ការស៊ើបអង្កេត
+- celebrity :តារាល្បី
+- horrify :រន្ធត់
+- discover :​បានរកឃើញ
+- evidence :ភត្តុតាង
+- proof :ភត្តុតាង
+- upset :
+- isue :បញ្ហា
+- contradiction :ភាពផ្ទុយគ្នា
+- almost :ស្ទើតែ
+- pressure :សម្ពាធ
+- admits :ទទួលស្គាល់
+- desperate :អស់សង្ឃឹម
+- ignore :មិនអើពើ
+- suggestion :ការស្នើសុំ
+- spririt :វិញ្ញាណ
+- fantastic :ឆ្លាត
+- delicious :ឆ្ងាញ់
+- bargain :ការចរចារ
+- mordern:ទំនើប
+- climate អាកាសធាតុ
+- pleasant :រីករាយ
+- impressive :គួរអោយស្ញើចសរសើរ
+- plenty :ច្រើន
+- accomodation:ការស្នាក់នៅ
+- hobby:ការកម្សាន្ត
+- apperan:រូបរាង
+- torso:ដងខ្លួន
+- normal:ធម្មតា
+- patience:ការអត់ធ្មត់
+- attitude:ឥរិយាបថ
+- evaluate:ការវាយតម្លៃ
+- sensitive:ប្រតិកម្មរហ័ស
+- unreliable:មិនអាចទុក្ខចិត្តបាន
+- stare:សម្លឹង
+- ambitious:មហិច្ឆតា
+- reserv:ស្រគត់ស្រគន់
+- avoids: ចៀសវាង
+- literanture:អក្សរសាស្រ្តខ្មែរ
+- expressing:ការបង្ហាញ
+- symptom:រោគសញ្ញា
+- illnesses:ជម្ងឺ
+- backache:ឈឺខ្នង
+- a cold:ផ្តាសសាយ
+- earache:ឈឺត្រជាក
+- flu:ផ្តាសសាយ
+- headache:ឈឺក្បាល
+- high temperature:ឡើងកម្តៅ
+- rash:កន្តួល
+- sore throut:ឈឺករ
+- serious:ធ្ងន់ធ្ងរ
+- terrible:គួរអោយភ័យខ្លាច
+- fancy:ចូលចិត្ត
+- awful:អាក្រក់
+- cough:ក្អក
+- lime:ក្រូចឆ្មា
+- butter:ផ្លែប៊ឺ
+- wet:ស៊ើម
+- shellfish:សត្វខ្យង
+- receipt:បង្កាន់ដៃ
+- fix:ជួសជួល
+- immediately:ភ្លាមភ្លាម
+- vegetarians: អ្នកបួស
+- scarf: ក្រមា
+- decision: ការសម្រេចចិត្ត
+- on the other hand : ម៉្យាងវិញទៀត
+-fabrics :ក្រណាត់
++ transition signals
+Addition:
+
+Additionally
+Furthermore
+Moreover
+In addition
+Also
+Contrast:
+
+However
+On the other hand
+Nevertheless
+Nonetheless
+Conversely
+Cause and Effect:
+
+Therefore
+Consequently
+As a result
+Thus
+Hence
+Comparison:
+
+Similarly
+Likewise
+In the same way
+Just as
+Compared to
+Example:
+
+For instance
+For example
+Such as
+To illustrate
+In particular
+Time:
+
+Meanwhile
+Subsequently
+Afterwards
+Eventually
+In the meantime
+Summary:
+
+In conclusion
+To summarize
+Overall
+In brief
+All in all
+- denying : បដិសេដ
+- matter : បញ្ហា
+-underestimated :ប៉ាន់ស្មានមិនដល់
+- hire : ជួល
+-statement: សេចក្តីថ្លែងការណ៍
+- efforts: ខិតខំប្រឹងប្រែង
+-urgent :បន្ទាន់
+-take leave :ការដាក់ច្បាប់
+-handle:ដោះស្រាយ
+-Unfortunately: ជាអកុសល
+-jok: លេងសើច
+-guilty: មានទោស
+-adjust: កែតម្រូវ
+-jerks :កន្ត្រាក់
+-trouble: បញ្ហា
+- attempt: ការប៉ុនប៉ង
+-arise :ក្រោកឡើង
+-punctuality: ភាពទាន់ពេលវេលា
+-detain: ឃាត់ខ្លួន
+-blame:ស្តី​បន្ទោស
+-procrastination: ការ​ពន្យារពេល
+-panic: ការភ័យខ្លាច
+- institution: ស្ថាប័ន
+-observe: សង្កេត
+-compensatory: សំណង
+-circumstance:កាលៈទេសៈ
+-priority: អត្តិភាព
+-authority:អាជ្ញាធរ
+-aspects:ទិដ្ឋភាព
+-contributors:អ្នករួមចំណែក
+-abandon:បោះបង់ចោល
+-failures:ការបរាជ័យ
+-admire: កោតសរសើរ
+- compliments: សរសើរ
+- essential:ចាំបាច់
+-genuine:ពិតប្រាកដ
+- atmosphere:បរិយាកាស
+-casual :ធម្មតា
+- recipient:អ្នកទទួល
+- ensure:ធានា
+-  possibility:លទ្ធភាព
+
+
+

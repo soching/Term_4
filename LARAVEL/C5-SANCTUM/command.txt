@@ -1,0 +1,7 @@
+
++first step: command for install sanctum
+ - composer require laravel/sanctum
++second step: command for install sanctum publish
+ - php artisan vendor:publish --provider="laravel\Sanctum\SanctumServiceProvider"
++ 
+token : it is incript text return back-end to users

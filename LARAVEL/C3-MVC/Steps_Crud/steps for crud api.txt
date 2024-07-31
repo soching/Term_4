@@ -1,0 +1,8 @@
+Steps for crud api in Laravel
+-first step is create project
+-second step is create database conect with file env
+-third step is create file folder model(php artisan make:model name_file)
+-four step is create name tables in file that you created and then use comment add table to database(php artisan migrate)
+-five step is crud in file api.php
+-six step is create file name in controller for manager crud 
+-seven step is if you want to get the spacific data for display, you can create file name in folder resource for mange data

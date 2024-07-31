@@ -1,0 +1,15 @@
+1-install router
+npm install vue-router
+
+
+
+
+steps for use router
+
+- first is run comment on above to insatall router 
+- second is create folder router in folder src and the create file name index.js in folder router
+- third is import file name HomePage to file index.js
+- four is import route into file name Main.js and use route also
+- five is (<router-view> </router-view>) use this one into App.vue file
+- six is ( <router-link to="/">Home</router-link>, <router-link to="/about">About</router-link>) use both for join to others page
+- seven is (createWebHistory) use this one in index.js file for get values in url
